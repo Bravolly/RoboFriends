@@ -1,5 +1,5 @@
 {
-  "name": "robofriends",
+  "name": "RoboFriends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -23,5 +23,5 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage" : "http://Bravolly.github.io/robofriends"
+  "homepage" : "http://Bravolly.github.io/RoboFriends"
 }
