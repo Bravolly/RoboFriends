@@ -1,3 +1,3 @@
 ## RoboFriends
 
-- A simple React website displaying contact cards and a usable search function.
+- A simple React+Redux website displaying contact cards and a usable search function.
